@@ -4,6 +4,10 @@
 <context>
     <name>main</name>
     <message>
+        <source></source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Simple Editor</source>
         <translation type="unfinished"></translation>
     </message>
@@ -20,11 +24,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source></source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>save - isComing</source>
+        <source>save</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
